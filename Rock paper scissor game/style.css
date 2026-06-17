@@ -83,7 +83,7 @@ body {
         gap:10px;
       }
 
-      @media screen and (max-width: 767px) and (min-width:374px){
+      @media screen and (max-width: 600px){
         .controls-hint{
           display:none;
 
