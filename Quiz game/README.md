@@ -35,9 +35,13 @@ quiz-game/
 
 ## Tech Used
 
-- HTML5
 - CSS3 (Flexbox, transitions, media queries)
 - Vanilla JavaScript (DOM manipulation, `dataset`, `setTimeout`, array methods)
+  
+## Project preview
+![image_alt](https://github.com/syedAhsan382/js-mini-projects/blob/90f148e4fefcb4ed1ba2e3455944a811ea4b554b/Quiz%20game/Quiz-game%20img.png)
+![image_alt](https://github.com/syedAhsan382/js-mini-projects/blob/90f148e4fefcb4ed1ba2e3455944a811ea4b554b/Quiz%20game/Quiz-game%20img2.png)
+
 
 ## Known Issues / To Fix
 
