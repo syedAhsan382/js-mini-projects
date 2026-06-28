@@ -56,4 +56,4 @@ A couple of selector mismatches are currently preventing some styles from applyi
 
 ## Author
 
-Built by Jhon as part of a frontend mini-projects portfolio.
+Built by Syed Ahsan as part of a frontend mini-projects portfolio.
