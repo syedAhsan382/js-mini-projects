@@ -99,10 +99,10 @@ const quizQuestions = [
   {
     question: "What is the most hardest substance in the world?",
     answers: [
-      { text: "200 ", correct: false },
-      { text: "256 ", correct: false},
-      { text: "206 ", correct: true },
-      { text: "300 ", correct: false },
+      { text: "Titanium ", correct: false },
+      { text: "Steel ", correct: false},
+      { text: "Dimond ", correct: true },
+      { text: "Tungsten ", correct: false },
     ],
   },
 ];
