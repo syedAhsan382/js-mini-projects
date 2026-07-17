@@ -2,7 +2,8 @@
 
 A simple, responsive expense tracker built with vanilla HTML, CSS, and JavaScript. Add income and expenses, see your running balance update in real time, and everything persists locally in your browser — no backend required.
 
-Images
+![image alt](https://github.com/syedAhsan382/js-mini-projects/blob/a3fd9e72826924121bb6dea7d93ad8be87c39439/Expense%20Tracker/daily%20spend%20tracker%20img.png)
+![image alt](https://github.com/syedAhsan382/js-mini-projects/blob/a3fd9e72826924121bb6dea7d93ad8be87c39439/Expense%20Tracker/daily%20spend%20tracker%201.png)
 
 ## Features
 
