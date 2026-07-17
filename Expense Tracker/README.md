@@ -72,4 +72,4 @@ expense-tracker/
 This project is licensed under the [MIT License](LICENSE).
 
 ## Author
-Built by [Syed Muhammad Ahsan](https://github.com/syedAhsan382/js-mini-projects) as part of a personal JavaScript mini-projects series.
+Built by [Syed Muhammad Ahsan](https://github.com/syedAhsan382) as part of a personal JavaScript mini-projects series.
