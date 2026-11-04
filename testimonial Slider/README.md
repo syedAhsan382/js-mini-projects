@@ -50,4 +50,4 @@ To change the testimonials, edit the `testimonials` array in `script.js`. To cha
 
 **Ahsan**
 
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [SyedAhsan382](https://github.com/syedAhsan382)
